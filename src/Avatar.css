@@ -1,0 +1,13 @@
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    margin: 0 auto;
+}
